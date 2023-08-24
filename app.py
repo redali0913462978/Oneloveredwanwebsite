@@ -20,7 +20,7 @@ JOBE = [
     'id':4,
    'title':'FLAT ROUND BAR',
    'type of':'ABISINIA AND UKRAIN ROLED',
-   'size':'10 x 2 mm up to 80 x 6 mm'
+   'size':'10 x 2 mm up to 100 x 6 mm'
     }
 ]
 
